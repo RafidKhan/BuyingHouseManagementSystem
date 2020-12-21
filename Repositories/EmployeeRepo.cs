@@ -8,7 +8,7 @@ using Entity;
 using System.Data.SqlClient;
 
 namespace Repositories
-{
+{ 
     public class EmployeeRepo : IEmployeeRepo
     {
          DatabaseConnectionClass dcc;
